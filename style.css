@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(250, 230, 201);
+}
+.main{
+    width: 1870px;
+    height: 900px;
+}
+.left{
+    border: 1px solid rgb(17, 16, 16);
+    width: 500px;
+    height: 850px;
+    box-shadow: 10px 5px 5px rgb(5, 5, 5);
+}
+.right{
+    border: 1px solid rgb(8, 8, 8);
+    width: 1320px;
+    height: 850px;
+    box-shadow: 10px 5px 5px rgb(2, 2, 2);
+}
+a{
+    text-decoration:none;
+    color: rgb(252, 173, 136);
+
+}
+button{
+    background-color: rgb(108, 191, 243);
+    width: 100px;
+    height: 30px;
+}
+td{
+    border-bottom: 2px solid rgb(3, 3, 3);
+}
+.dd,.ddd{
+border:0px solid black;
+}
